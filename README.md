@@ -23,14 +23,14 @@ O dashboard foi construído no Looker Studio para visualização interativa dos 
 - Receita mensal e evolução temporal
 - Distribuição de vendas por canal
 - Ranking de produtos e segmentos
-- Identificação de clientes com maior valor (Top clientes)
+- Identificação de clientes com maior possibilidade de nova compra (Top clientes)
 
 ---
 
-##  Business Insights
+##  Insights
 - Identificação de segmentos com maior concentração de receita
-- Criação de campanhas direcionadas para clientes de alto valor
-- Redução de 32% em gastos com ações sem retorno
+- Redução de 32% em gastos com produtos baixo ticket
+- Criação de campanhas de descontos conforme o mês
 - Otimização de investimento em canais mais performáticos
 
 ---
@@ -40,4 +40,4 @@ https://lookerstudio.google.com/reporting/27c3b4ad-72d6-49fa-84d6-e884f5fedfd8
 ---
 
 ## Author
-Ketlyn Araújo
+[Ketlyn Araújo](https://www.linkedin.com/in/ketlyn-araujo99/)
