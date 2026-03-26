@@ -1,4 +1,4 @@
-# Sales Analytics with BigQuery & Looker Studio
+# Projeto Pink Models
 
 ##  Overview
 Projeto de análise de dados desenvolvido para uma microempresa com o objetivo de estruturar informações de vendas e gerar insights estratégicos para tomada de decisão.
