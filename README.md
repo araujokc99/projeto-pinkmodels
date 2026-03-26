@@ -9,20 +9,13 @@ O dashboard foi construído no Looker Studio para visualização interativa dos 
 
 ---
 
-##  Tech Stack
-1. Consolidação e tratamento de dados com Python (pandas)
-3. Ingestão no BigQuery
-4. Tratamento e análise com SQL
-5. Visualização no Looker Studio
-
----
-
 ##  Data Pipeline
 1. Coleta de dados em planilhas (CSV)
-2. Ingestão no BigQuery
-3. Tratamento e modelagem com SQL
-4. Conexão com Looker Studio
-5. Visualização e análise de dados
+2. Consolidação e tratamento de dados com Python (pandas)
+3. Ingestão no BigQuery
+4. Tratamento e modelagem com SQL
+5. Conexão com Looker Studio
+6. Visualização e análise de dados
 
 ---
 
