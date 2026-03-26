@@ -43,8 +43,7 @@ O dashboard foi construído no Looker Studio para visualização interativa dos 
 ---
 
 ## 🔗 Dashboard
-[[[Link do Looker Studio](COLE_SEU_LINK_AQUI](https://lookerstudio.google.com/reporting/27c3b4ad-72d6-49fa-84d6-e884f5fedfd8))
-](https://lookerstudio.google.com/reporting/27c3b4ad-72d6-49fa-84d6-e884f5fedfd8)
+https://lookerstudio.google.com/reporting/27c3b4ad-72d6-49fa-84d6-e884f5fedfd8
 ---
 
 ## Author
