@@ -27,12 +27,11 @@ O dashboard foi construído no Looker Studio para visualização interativa dos 
 
 ---
 
-##  Insights
-- Identificação de segmentos com maior concentração de receita
-- Redução de 32% em gastos com produtos baixo ticket
-- Criação de campanhas de descontos conforme o mês
-- Otimização de investimento em canais mais performáticos
-
+## Insights
+- Calçados é o segmento com maior receita acumulada, representando a maior fatia do portfólio de vendas
+- O canal App concentra 40% das vendas, sendo o principal canal de aquisição da empresa
+- Ana Silva é a cliente com maior engajamento — 3 pedidos e maior volume de compras no período
+- A receita apresenta variações mensais significativas, indicando oportunidade de ações de retenção nos meses de queda
 ---
 
 ## 🔗 Dashboard
