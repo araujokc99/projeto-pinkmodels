@@ -10,10 +10,10 @@ O dashboard foi construído no Looker Studio para visualização interativa dos 
 ---
 
 ##  Tech Stack
-- Google BigQuery (SQL)
-- Looker Studio (Dashboard)
-- Python (opcional para ingestão de dados)
-- Google Sheets / CSV (fonte de dados)
+1. Consolidação e tratamento de dados com Python (pandas)
+3. Ingestão no BigQuery
+4. Tratamento e análise com SQL
+5. Visualização no Looker Studio
 
 ---
 
